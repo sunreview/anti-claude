@@ -41,14 +41,13 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
   在任何风控系统里都是异常——真人不会这样旅行。
 
   
-
   这里推荐一家 vpn厂商（无利益相关），[快喵vpn](https://acekuaimiao.net/zh-hans)
 
   直接购买**普通付费套餐**，然后选择**AI专区（Claude）**。不需要
 
   上**VIP付费套餐**。当然**VIP付费套餐**的固定美国ip会更安全些，只是会很贵。
 
-  <img src="/Users/guichaoran/Library/Application Support/typora-user-images/image-20261021185515783.png" alt="image-20261021185515783" style="zoom:50%;" />
+![img](https://github.com/sunreview/anti-claude/blob/main/2.png)
 
 ## 二、注册邮箱：用有年头、有生活痕迹的 Gmail
 
@@ -97,7 +96,7 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 
 - 查看 Anthropic 邮件时，用接码邮件来接收登陆验证码。
 
-![img](https://store.ai-headshot.net/assets/cache/general/image/5aa60979d60308a5622f129ec438fbda.png)
+![img](https://github.com/sunreview/anti-claude/blob/main/1.png)
 
 ## 五、日常使用习惯
 
