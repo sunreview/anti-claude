@@ -49,7 +49,12 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 
   上**VIP付费套餐**。当然**VIP付费套餐**的固定美国ip会更安全些，只是会很贵。
 
-<img src="./2.png" alt="图片说明" width="50%">  <img src="./usaip.png" alt="图片说明" width="50%">
+<table>
+  <tr>
+    <td><img src="./2.png" alt="图片说明"></td>
+    <td><img src="./usaip.png" alt="图片说明"></td>
+  </tr>
+</table>
 
 ## 二、注册邮箱：用有年头、有生活痕迹的 Gmail
 
