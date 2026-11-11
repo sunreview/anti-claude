@@ -127,7 +127,7 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 - 在登录Claude账号接收登陆验证码时，一定要用接码工具接收，防止自己的真实IP被暴露
 
 
-如果大家找不到合适的渠道购买 Claude 普号 和 充值 Claude Pro 会员，可以查看 [AI杂货铺](https://store.ai-headshot.net/cat/6)
+如果大家找不到合适的渠道购买 Claude 普号 和 充值 Claude Pro 会员，可以查看 [OkSub](https://oksub.net/claude)
 
 这里配备了可以接码登陆的Claude普号，以及不用国外信用卡就可以轻松充值 Claude Pro会员
 
