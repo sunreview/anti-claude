@@ -49,11 +49,9 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 
   上**VIP付费套餐**。
 
-<table>
-  <tr>
-    <td><img src="./2.png" alt="图片说明"></td>
-  </tr>
-</table>
+
+<img src="./2.png" alt="图片说明" width="50%">
+
 
 ## 二、注册邮箱：用有年头、有生活痕迹的 Gmail
 
