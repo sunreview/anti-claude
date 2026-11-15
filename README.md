@@ -128,7 +128,8 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 如果大家找不到合适的渠道购买 Claude 普号 和 充值 Claude Pro 会员成品号，可以查看 [AI杂货铺](https://store.ai-headshot.net/)
 这里配备了可以接码登陆的Claude普号，以及不用国外信用卡就可以轻松购买 Claude Pro会员 成品号。
 
-还是推荐搭建自己购买一个服务器搭建自己独享的vpn节点，我用这种方式 claude已经存活了一个月没有封号。
+还是推荐搭建自己购买一个服务器搭建自己独享的vpn节点，我用这种方式 claude已经存活了一个月没有封号。且通过 IP 检测工具 分数检测 ip分数高达83分。
+
 具体可以查看 [Claude 账号 防封 / 自建代理全流程](https://github.com/sunreview/claude-anti-ban-reality-hy2-vpn)
 
 
