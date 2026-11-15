@@ -47,12 +47,11 @@ Anthropic 封号通常不是因为"你用得多"，而是账号的**风险评分
 
   直接购买**普通付费套餐**，然后选择**AI专区（Claude）**。不需要
 
-  上**VIP付费套餐**。当然**VIP付费套餐**的固定美国ip会更安全些，只是会很贵。
+  上**VIP付费套餐**。
 
 <table>
   <tr>
     <td><img src="./2.png" alt="图片说明"></td>
-    <td><img src="./usaip.png" alt="图片说明"></td>
   </tr>
 </table>
 
